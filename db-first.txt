@@ -1,0 +1,13 @@
+﻿1) Nome auto. VARCHAR(100) NULL
+2) Targa VARCHAR(7) NULL
+3) Anno DATE NULL
+4) Matricolazione DATE NULL
+5) Optional VARCHAR(20)
+6) Km percorsi MEDIUMINT(6) NULL
+7) Numero di serie VARCHAR(17) NULL
+8) Pressione delle gomme FLOAT
+9) Consumo al km FLOAT 
+10) Capacità serbatoio TINYINT 
+11) Capacità Bagagliaio MEDIUMINT NULL
+12) Posti TINYINT NULL
+13) Porte TINYINT NULL
